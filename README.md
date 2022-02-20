@@ -68,4 +68,5 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [My LinkedIn AI Intern Interview Experience](https://medium.com/@codernoname/my-linkedin-ai-intern-interview-experience-2d8fcc98bb89)
 <!-- BLOG-POST-LIST:END -->
