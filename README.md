@@ -48,6 +48,12 @@ Here are some ideas to get you started:
 :woman_student: I am a Master's student at Indian Institute of Information Technology Lucknow, India.
 - I love to code on leetcode, and geeks for geeks platform <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :seedling: Exploring Technical Content Writing.
+- 🔭 I’m currently working on improving my coding skills
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with coding stuff
+- 💬 Ask me about Deep Learning stuff.
+- 😄 Pronouns: she/her
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-kushwaha-9a80ba122/)
 ---
 
