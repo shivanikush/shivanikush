@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest medium post activity
 on:
   schedule:
     # Runs every hour
@@ -7,11 +7,13 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repos README with latest blog posts
+    name: Update this repos README with latest medium blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: shivanikush/blog-post-workflow@master
         with:
+          comment_tag_name: "MEDIUM"
           max_post_count: "4"
-          feed_list: "https://medium.com/@codernoname/"
+          feed_list: "https://medium.com/feed/@codernoname"
+          template: "<tr><td>$title</td><td>$url</td></tr>"
