@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me : 
 :woman_student: I am a Master's student at Indian Institute of Information Technology Lucknow, India.
 - I love to code on leetcode, and geeks for geeks platform <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
-- :seedling: Exploring Technical Content Writing. @medium.com
--:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-kushwaha-9a80ba122/)
+- :seedling: Exploring Technical Content Writing.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-kushwaha-9a80ba122/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
