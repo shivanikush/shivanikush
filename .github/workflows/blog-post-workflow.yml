@@ -14,4 +14,4 @@ jobs:
       - uses: shivanikush/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://medium.com/@codernoname"
+          feed_list: "https://medium.com/@codernoname/land-in-to-your-dream-company-as-a-sde-dc2f59c590c"
