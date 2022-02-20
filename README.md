@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title = "github" alt = "github" witdth ="40" height = "40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title ="python" alt = "python" width = "40" height ="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt ="ubuntu" width ="40" height ="40"/>&nbsp;
-  <imgsrc = "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
  </div>
  ---
 
