@@ -19,13 +19,13 @@ Here are some ideas to get you started:
  
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="150"/>
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/shivani-kushwaha-9a80ba122/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UC-CSI9Us79LWIJK0xAzgZZg">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC-CSI9Us79LWIJK0xAzgZZg?style=social" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/Shivani37929339">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
