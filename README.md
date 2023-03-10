@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me : 
 :woman_student: I am a Master's student at Indian Institute of Information Technology Lucknow, India.
-Currently, I am working as an Intern at Intel. 
+- Currently, I am working as an Intern at Intel. 
 - I love to code, computer vision.
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :seedling: Exploring Technical Content Writing.
