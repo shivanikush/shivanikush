@@ -61,11 +61,19 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title = "github" alt = "github" witdth ="40" height = "40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title ="python" alt = "python" width = "40" height ="40"/>&nbsp;
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title ="PyTorch" alt="PyTorch" width = "50" height = "50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="50" height="50"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title = "github" alt = "github" witdth ="50" height = "50"/>&nbsp;
+ <img src = " https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title = "mySQL" alt = "mySQL" witdth ="50" height = "50"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title ="python" alt = "python" width = "50" height ="50"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt ="ubuntu" width ="40" height ="40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" alt="tensorflow" width="50" height="50"/>&nbsp;
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="50" height="50"/>&nbsp;
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="50" height="50"/>&nbsp;
+  <img src = " " title="tensorflow" alt="tensorflow" width="50" height="50"/>&nbsp;
+ 
+ 
+ 
  </div>
  ---
 
