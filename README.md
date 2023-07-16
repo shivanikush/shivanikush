@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/ESVq9aLP2tUv3DxAwU/giphy.gif" width="200" height="200"/>
 </div>
----
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-### :woman_technologist: About Me : 
+### : Woman_Technologist: About Me : 
 :woman_student: I recently completed my Master's in Computer Science with Artificial Intelligence as specialization from Indian Institute of Information Technology Lucknow, India.
 - Currently, I am working as an Intern at Intel. 
 - I love to code, computer vision.
