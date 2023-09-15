@@ -61,7 +61,11 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50" />&nbsp;
   <img src ="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title ="PyTorch" alt="PyTorch" width = "50" height = "50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title ="Bash" alt="Bash" width = "50" height = "50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title ="Kubernetes" alt="Kubernetes" width = "50" height = "50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title ="Jenkins" alt="Jenkins" width = "50" height = "50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="50" height="50"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title = "github" alt = "github" witdth ="50" height = "50"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title = "mySQL" alt = "mySQL" witdth ="50" height = "50"/>&nbsp;
