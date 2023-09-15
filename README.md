@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working ...
-- 🌱 I’m currently learning Computer Vision, Deep Learning stuff ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working at Intel as Cluster Engineer
+- 🌱 I’m currently learning Docker, Kubernetes, Computer Vision, Deep Learning stuff ...
+- 👯 I’m looking to collaborate on Deep learning and computer vision work.
 - 🤔 I’m looking for help with Deeplearning and Computer Vision...
 - 💬 Ask me about Deep Learning...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: Linkedin
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
 
@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 
 ### : Woman_Technologist: About Me : 
 :woman_student: I recently completed my Master's in Computer Science with Artificial Intelligence as specialization from Indian Institute of Information Technology Lucknow, India.
-- Currently, I am working as an Intern at Intel. 
-- I love to code, computer vision.
+- Currently, I am working as Cluster Engineer at Intel. 
+- I love to code.
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :seedling: Exploring Technical Content Writing.
-- 🔭 I’m currently working as Intern at Intel.
+- 🔭 I’m currently working as Cluster Engineer at Intel.
 - 🌱 I’m currently learning Deeplearning and Computer vision,
 - 👯 I’m looking to collaborate on topics related to computer vision and deep learning...
 - 🤔 I’m looking for help with Deeplearning and Computer Vision
