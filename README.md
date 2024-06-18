@@ -38,23 +38,17 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ESVq9aLP2tUv3DxAwU/giphy.gif" width="200" height="200"/>
-</div>
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 ### : Woman_Technologist: About Me : 
 :woman_student: I recently completed my Master's in Computer Science with Artificial Intelligence as specialization from Indian Institute of Information Technology Lucknow, India.
 - Currently, I am working as Cluster Engineer at Intel. 
 - I love to code.
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
-- :seedling: Exploring Technical Content Writing.
 - 🔭 I’m currently working as Cluster Engineer at Intel.
 - 🌱 I’m currently learning Deeplearning and Computer vision,
 - 👯 I’m looking to collaborate on topics related to computer vision and deep learning...
-- 🤔 I’m looking for help with Deeplearning and Computer Vision
-- 💬 Ask me about Deep Learning stuff.
+- 🤔 I’m looking for help with Coding, Career guidance, Deeplearning, Computer Vision
+- 💬 Ask me about Deep Learning stuff,Coding, Career guidance.
 - 😄 Pronouns: she/her
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-kushwaha-9a80ba122/)
 ---
@@ -74,10 +68,7 @@ Here are some ideas to get you started:
   <img src = "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" alt="tensorflow" width="50" height="50"/>&nbsp;
  <img src = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="50" height="50"/>&nbsp;
  <img src = "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="50" height="50"/>&nbsp;
- 
- 
- 
- 
+
  </div>
  ---
 
