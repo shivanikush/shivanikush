@@ -2,18 +2,12 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 <div id="header" align = "center">
- <br>
-<p float="left">
-  <img src=""https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="200" height ="150"/>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="100" height ="150" /> 
-   />
+ <p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1050" height="300" alt="animated hello" />
 </p>
-<br>
-<!-- <br><br>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="500">
--->
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="1050" height="400">
 <br><br>
-  <div id="badges">
+ <!-- <div id="badges">
   <a href="https://www.linkedin.com/in/shivani-kushwaha-9a80ba122/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -23,27 +17,26 @@
   <a href="https://twitter.com/Shivani37929339">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-  <div id = "badges">
+</div> 
+ <!-- <div id = "badges">
 <img src="https://komarev.com/ghpvc/?username=shivanikush&style=flat-square&color=orange" alt=""/>
-</div>
+</div> -->
 </div>
 <h1>
- <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="700" height="300" alt="animated hello" />
-</p>
+ 
 </h1>
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-### Woman_Technologist: About Me : 
-Currently, I am working as Cluster Engineer at Intel, where I work on enabling the workloads related to memory, Machine Learning, Inference, Accelerators etc, and deploying on our cluster through Jenkins pipeline.
-- 🔭 I’m currently working as Cluster Engineer at Intel.
-- 🌱 I’m currently learning LLMs.
-- 👯 I’m looking to collaborate on Cloud Technologies and Gen AI stuff
-- 💬 Ask me about Deep Learning stuff,Coding, Career guidance.
-- 😄 Pronouns: she/her
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-kushwaha-9a80ba122/)
+### About Me : 
+<img align = "right" src="https://user-images.githubusercontent.com/74038190/212259366-1e33063f-1384-459b-9ea5-8ee5e25b63dc.jpg" width="200" />
+Currently, I am working as Cluster Engineer at Intel, where I work on enabling the workloads related to memory, Machine Learning, Inference, Accelerators etc, and deploying on our cluster through Jenkins pipeline.<br>
+- 🔭 I’m currently working as Cluster Engineer at Intel. <br>
+- 🌱 I’m currently learning LLMs. <br>
+- 👯 I’m looking to collaborate on Cloud Technologies and Gen AI stuff <br>
+- 💬 Ask me about Deep Learning stuff,Coding, Career guidance. <br>
+- 😄 Pronouns: she/her <br>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -68,7 +61,7 @@ Currently, I am working as Cluster Engineer at Intel, where I work on enabling t
  
  </div>
  
-### :fire: My Stats :
+### :fire: My Stats : 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivanikush)](https://git.io/streak-stats)
 <!-- [![Shivani's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shivanikush&show_icons=true&theme=dark#gh-dark-mode-only)(https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
  --->
