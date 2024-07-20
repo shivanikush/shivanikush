@@ -30,7 +30,7 @@
 
 ### About Me : 
 <img align = "right" src="https://user-images.githubusercontent.com/74038190/212259366-1e33063f-1384-459b-9ea5-8ee5e25b63dc.jpg" width="200" />
-Currently, I am working as Cluster Engineer at Intel, where I work on enabling the workloads related to memory, Machine Learning, Inference, Accelerators etc, and deploying on our cluster through Jenkins pipeline.<br>
+Currently, I am working as Cluster Engineer at Intel, where I work on enabling the workloads related to memory, Machine Learning, Inference, Accelerators etc, and deploying on our cluster.<br>
 - 🔭 I’m currently working as Cluster Engineer at Intel. <br>
 - 🌱 I’m currently learning LLMs. <br>
 - 👯 I’m looking to collaborate on Cloud Technologies and Gen AI stuff <br>
