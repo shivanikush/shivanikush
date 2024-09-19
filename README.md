@@ -1,9 +1,10 @@
-
+<!--
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 <div id="header" align = "center">
  <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1050" height="250" alt="animated hello" />
+-->
 <!-- </p>
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="1050" height="400"> -->
 
@@ -61,7 +62,7 @@ Currently, I am working as Cluster Engineer at Intel, where I work on enabling t
  
  </div>
  
-### :fire: My Stats : 
+<!--### :fire: My Stats : 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivanikush)](https://git.io/streak-stats)
 <!-- [![Shivani's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shivanikush&show_icons=true&theme=dark#gh-dark-mode-only)(https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
  --->
